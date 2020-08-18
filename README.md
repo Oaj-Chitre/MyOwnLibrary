@@ -1,2 +1,2 @@
-# MyOwnLibrary
-Wrote a function which takes arguments
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
